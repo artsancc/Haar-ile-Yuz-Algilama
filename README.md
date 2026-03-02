@@ -1,4 +1,4 @@
-# Haar ile Yüz Algılama
+# Haar Cascade ile Yüz Algılama
 
 Bu proje, OpenCV'nin Haar metodunu kullanarak kütüphanesini kullanarak bir görsel üzerindeki insan yüzlerini otomatik olarak algılayan ve dikdörtgen içine alan basit bir görüntü işleme uygulamasıdır.
 
